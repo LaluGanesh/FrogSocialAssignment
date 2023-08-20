@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="primaray">#603ede</color>
+    <color name="primaray_dark">#B6B0C6</color>
+    <color name="primaray__">#90603ede</color>
+    <color name="primaray__1">#909E87EF</color>
+    <color name="secondary">#f21b7b</color>
+    <color name="light_blue">#45bdb9</color>
+    <color name="light_blue_white">#E5F8F7</color>
+    <color name="blue_2">#7b5af6</color>
+    <color name="yellow">#fdab41</color>
+    <color name="majantha">#7f779b</color>
+    <color name="light_gray">#eeedf4</color>
+    <color name="light_gray1">#F2F2F2</color>
+    <color name="light_gray_dark">#E0DFE7</color>
+    <color name="bronze">#865b1d</color>
+    <color name="due_color">#967044</color>
+    <color name="due_background">#FFF8F0</color>
+    <color name="live_background">#FFF3F3</color>
+    <color name="exp_background">#EDEDED</color>
+    <color name="gray_scale">#5d5d5e</color>
+    <color name="gray">#909090</color>
+    <color name="black_gray">#737373</color>
+    <color name="outline_gray">#e1e3e8</color>
+    <color name="dotline_help">#cfd0d2</color>
+    <color name="help_fillcolor">#fcfdff</color>
+    <color name="white_light">#FFFAFA</color>
+    <color name="light_gry">#eeedf4</color>
+    <color name="light_gry1">#55F5F5F5</color>
+    <color name="close_gry">#cccccc</color>
+    <color name="mtrl_textinput_default_box_stroke_color">#fff</color>
+    <color name="colorTransparent">#70FFFFFF</color>
+    <color name="symbol_gray">#a8abb1</color>
+    <color name="text_gray">#8d8d8d</color>
+    <color name="blue_3">#EC603EDE</color>
+    <color name="gray_progress">#E3E3E3</color>
+    <color name="shimmerBackground">#dddddd</color>
+    <color name="shadow_color">#4CF1F1F1</color>
+    <color name="shadow_color2">#F2F2F2</color>
+    <color name="fade_color">#beb9d1</color>
+    <color name="pick">#d064a4</color>
+    <color name="pick_light">#F9E0EF</color>
+    <color name="divider_grey">#e4e4e4</color>
+    <color name="best_score">#FDAB41</color>
+    <color name="best_score_light">#2AFDAB41</color>
+    <color name="bronse_light">#FEF9F4</color>
+    <color name="best_score_dark">#14FDAB41</color>
+    <color name="start_color">#b8b9ba</color>
+    <color name="clock_title_dark">#90432E</color>
+    <color name="bg_timer">#FFECEC</color>
+    <color name="reviewmode_background">#EFFBF5</color>
+    <color name="yellow_light">#2AFDAB41</color>
+    <item name="red_light_new" type="color">#29FF4444</item>
+    <color name="primaray_light">#29603EDE</color>
+    <color name="light_blue_light">#2945BDB9</color>
+    <color name="yellow_light_new">#29FDAB41</color>
+
+    <color name="wrong_answer_shadow">#FBF3F6</color>
+    <color name="right_answer_shadow">#F5F8F9</color>
+    <color name="time_taken_shadow">#F9F5F1</color>
+    <color name="questen_answed_shadow">#F7EFFC</color>
+
+    <item name="blue" type="color">#FF33B5E5</item>
+    <item name="red_stock" type="color">#f5548d</item>
+    <item name="purple" type="color">#FFAA66CC</item>
+    <item name="green" type="color">#FF99CC00</item>
+    <item name="red" type="color">#FFFF4444</item>
+    <item name="darkblue" type="color">#FF0099CC</item>
+    <item name="darkpurple" type="color">#FF9933CC</item>
+    <item name="darkgreen" type="color">#FF669900</item>
+    <item name="review_color" type="color">#79D0A5</item>
+    <item name="darkred" type="color">#FFCC0000</item>
+
+    <item name="blue_light" type="color">#1433B5E5</item>
+    <item name="purple_light" type="color">#14B48BC8</item>
+    <item name="green_light" type="color">#1499CC00</item>
+    <item name="red_light" type="color">#14FF4444</item>
+    <item name="darkblue_light" type="color">#140099CC</item>
+    <item name="darkpurple_light" type="color">#149933CC</item>
+    <item name="darkgreen_light" type="color">#14669900</item>
+    <item name="darkred_light" type="color">#14CC0000</item>
+
+    <item name="blue_shadow" type="color">#2133B5E5</item>
+    <item name="purple_shadow" type="color">#21B48BC8</item>
+    <item name="green_shadow" type="color">#2199CC00</item>
+    <item name="red_shadow" type="color">#21FF4444</item>
+
+    <item name="darkblue_shadow" type="color">#220099CC</item>
+    <item name="darkpurple_shadow" type="color">#219933CC</item>
+    <item name="darkgreen_shadow" type="color">#21669900</item>
+    <item name="darkred_shadow" type="color">#21CC0000</item>
+
+    <item name="skipped_color" type="color">#F48F44</item>
+    <item name="rose" type="color">#FFF6F6</item>
+    <item name="revieed_color" type="color">#45BD80</item>
+</resources>

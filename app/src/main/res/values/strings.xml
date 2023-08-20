@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FrogSocialAssignment</string>
+    <string name="please_enter_email_and_password">Please enter Email and Password</string>
+    <string name="sorry_you_don_t_have_user_account_please_register">Sorry You don\'t have user account. please Register.</string>
+    <string name="please_enter_correct_password">Please enter correct password</string>
+    <string name="required_all_fields">Required all fields</string>
+    <string name="password_and_conform_password_must_be_same">Password and Conform password must be same</string>
+    <string name="email_already_exist">Email already exist!!</string>
+    <string name="register_done_successfully">Register done successfully</string>
+    <string name="not_yet_registered_signup_now">Not yet registered? SignUp Now</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="e_mail">E-mail</string>
+    <string name="login_titil">Login</string>
+    <string name="sign_up">Sign up</string>
+    <string name="conform_password">Conform Password</string>
+    <string name="password_hint">Password</string>
+    <string name="e_mail_ttil">E-mail</string>
+    <string name="full_name">Full Name</string>
+    <string name="sign_up_titil">Sign up</string>
+    <string name="please_enter_a_valid_email">Please enter a valid email</string>
+</resources>
